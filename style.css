@@ -1,0 +1,51 @@
+html{
+	margin: 0;
+	padding: 0;
+	background-color: black;
+	font-family: 'Helvetica', Geneva, Verdana, Arial, sans-serif;
+	font-size: 16px;
+}
+
+button{
+	font-size: 16px;
+	width: 260px;
+	height: 50px;
+	margin: 10px;
+	text-align: center;
+}
+
+body{
+	color: white;
+	background-color: black;
+
+
+}
+
+.contentBox{
+	background-color: black;
+
+}
+
+/*.articleBox{
+	float: left;
+	margin: 0 5px 10px 0;
+	width: 320px;
+	height: 320px;
+}
+*/
+.articleTitle{
+	font-family: georgia;
+	font-style: italic;
+	font-weight: bolder;
+	font-size: 22px;
+	margin: 15px 0 2px;
+}
+
+.articleImg{
+	margin: 5px;
+	float: left;
+}
+
+/*.articleText{
+	font-family: 'times new roman';
+}*/
